@@ -70,6 +70,6 @@ function rispostaUtente() {
 
     console.log('Lista dei numeri casuali: ' + numComputer);
     console.log('Lista dei numeri inseriti dall\'utente: ' + numUtente);
-    console.log('Hai indovinato ' + punteggio + ' numeri');
+    console.log('Punteggio: ' + punteggio);
     console.log('Lista dei numeri indovinati : ' + numCorretti);
 }
