@@ -35,7 +35,7 @@ while (numComputer.length < 5) {
 alert('Numeri Random:\n' + numComputer);
 
 // Timer di 30 secondi
-setTimeout(rispostaUtente, 5000);
+setTimeout(rispostaUtente, 30000);
 
 
 // FUNZIONI
